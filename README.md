@@ -1,2 +1,2 @@
 # diary-analysis
-Agile pursue of diary apprehension
+Explorative pursue of diary apprehension
